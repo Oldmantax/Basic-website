@@ -1,0 +1,15 @@
+h1 {
+    color: #000099;
+    background-color: #ffc;
+    font-family: sans-serif;
+}
+body {
+    background-color: #ffc;
+    font-family: sans-serif;
+    font-weight: lighter;
+    margin: 120px;
+}
+table {
+    font-weight: normal;
+    font-size: 10pt;
+}
